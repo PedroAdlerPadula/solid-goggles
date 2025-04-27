@@ -1,3 +1,1 @@
-print("eu")
-
-print("oi")
+print("asokdasokd")
